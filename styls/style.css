@@ -1,0 +1,45 @@
+
+
+.open-sens-mormal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+   
+    font-style: normal;
+  }
+
+
+.hero{
+    background-image: url(../images/B10A1-Challenge-Begins/assets/Hero-bg.png);
+    height: 638px;
+    margin: 131px auto 74px auto;
+    padding: 26px 221px 45px 221px;
+    /* justify-content: center; */
+}
+.hero-items{
+    text-align: center;
+    /* justify-content: center; */
+    width: 900px; 
+    margin: 26px 200px 30px 400px; 
+}
+.hero-title{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    color: #0D1321;
+}
+.hero-description{
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 70%;
+    line-height: 26px;
+    color: #0D1321;
+
+}
+.hero-btn{
+    font-size: 20px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #0D1321;
+    border-radius: 8px;
+    padding: 21px 24px;
+}
